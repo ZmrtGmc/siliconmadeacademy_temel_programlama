@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h/xMHQ1rABUmK+8NHeiozLRKsnOJpp6ytit+lUJvtyvVCXVWCZZx9si1xCnoK+YxK/h1ldn1HAGHlus+IVZTrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zmrtg\\OneDrive\\Masaüstü\\siliconacademy\\ConsoleApp4\\ConsoleApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zmrtg\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\zmrtg\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\zmrtg\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
